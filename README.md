@@ -6,7 +6,8 @@ Oral Argument Transcripts can be found on the [Supreme Court Website](https://ww
 
 Oral Argument tanscripts are processed using extract_oral_argument_text_UPLOADv2 in jupyter. 
 
-Full text of extracted oral arguments, combined with case information from Spaeth et al. (2024)'s Supreme Court Database can be found [here](https://drive.google.com/drive/folders/1NFpaRgX-oiUwOLYi2s3nFMrksF7V61Cx?usp=sharing)
+## LDA and Ideal Point Estimation
+LDA and ideal point estimations are performed in R. 
 
 
 
